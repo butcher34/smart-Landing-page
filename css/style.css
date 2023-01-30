@@ -1,0 +1,90 @@
+body 
+{
+    font-family: 'segoe ui light';
+}
+.text-mine
+{
+    color: #ff206e;
+}
+.bg-mine 
+{
+    background-color: #ff206e;
+}
+
+.secone,.secone h5{
+    background-color: #CB1E1A; 
+    color: white;
+    font-size: 14px;
+}
+.secone .row{
+    margin-left: 4%;
+}
+.secone-social{
+    font-size: 22px;
+}
+.nav-item{
+    margin-right: 14%;
+}
+.navbar{
+    background-color: rgba(9, 0, 0, .38) !important;
+    z-index: 1;
+    color: white;
+    
+}
+.nav-link{
+    color: rgba(254, 254, 254, 1) !important;
+}
+.nav-link:hover{
+ color: #CB1E1A !important;
+}
+.btnJion{
+    border-radius: 14px;
+    background-color: red;
+    color: white;
+    width: 10%;
+   
+   
+}
+.secthree{
+    margin-top: -122px;
+}
+
+.carousel-indicators button{
+    border-radius:100% ;  
+    width: 17px !important;
+    height: 17px !important;
+}
+.leap {
+    margin-bottom: 20%;
+    margin-right: 42%;
+}
+.carousel-caption p{
+    margin-bottom: 5%;
+    font-weight: bold;
+    margin-right: 42%;
+    font-size: 300%;
+}
+.smartLogo{
+    width: 48%;
+    margin-left: -10%;
+}
+.secfour{
+    padding-left: 0;
+}
+.secfour img{
+    
+}
+.secfour div{
+    background-color: #CB1E1A;
+    
+}
+.secfour-txt{
+    padding: 5% 2%;
+    font-size: 154%;
+    color: white;
+}
+.secfour-txt h3{
+    font-weight: bold;
+    font-size: 154%;
+    
+}
