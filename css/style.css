@@ -22,6 +22,9 @@ body
 .secone-social{
     font-size: 22px;
 }
+.navbar-collapse{
+    padding-left: 6%;
+}
 .nav-item{
     margin-right: 14%;
 }
@@ -29,6 +32,7 @@ body
     background-color: rgba(9, 0, 0, .38) !important;
     z-index: 1;
     color: white;
+    position: absolute;
     
 }
 .nav-link{
@@ -46,7 +50,7 @@ body
    
 }
 .secthree{
-    margin-top: -122px;
+    
 }
 
 .carousel-indicators button{
@@ -63,6 +67,11 @@ body
     font-weight: bold;
     margin-right: 42%;
     font-size: 300%;
+}
+@media screen  and (max-width: 1300px) {
+    .carousel-caption p{
+        font-size: 200%;
+    }
 }
 .smartLogo{
     width: 48%;
